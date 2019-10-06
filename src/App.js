@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
 
 import { Home, Profile } from './pages';
 
-
 const App = () => {
   return (
     <Router>
